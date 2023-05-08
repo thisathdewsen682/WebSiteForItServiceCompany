@@ -703,6 +703,8 @@ p {
     padding: 1rem;
     text-decoration: underline;
   }
+  .header {
+  max-width: 100%;
 }
 @media (max-width: 482px) {
   .testimonial .d {
