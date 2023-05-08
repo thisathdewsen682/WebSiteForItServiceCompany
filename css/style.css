@@ -576,7 +576,11 @@ p {
   font-size: 1.5rem;
   font-weight: 700;
 }
-
+.social-media-icon i{
+  margin-top: 2rem;
+  margin-right: .6rem;
+  padding: .2rem 0rem;
+}
 /*Responsive Meadia Query*/
 @media (max-width: 1000px) {
   .hero-content h1 {
