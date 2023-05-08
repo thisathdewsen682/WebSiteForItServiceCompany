@@ -17,6 +17,9 @@
   --heading3: 34px;
   --paragraph: 18px;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   margin: 0;
